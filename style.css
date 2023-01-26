@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.card{
+  margin-left: 10px;
+  margin-right: 10px;
+  box-shadow: 6px 4px 13px 0px gray;
+  width: 420px;
+}
+#city {
+    display: inline-block;
+}
+
+#city:first-letter {
+    text-transform: uppercase;
+}
